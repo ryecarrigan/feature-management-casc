@@ -4,7 +4,7 @@ kind: flag
 
 flag: MaintenanceMode
 flagType: boolean
-description: ""
+description: "Maintenance mode flag"
 labels:
 
 availableValues:
